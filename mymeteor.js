@@ -17,3 +17,4 @@ Templage.body.helpers({
         }
         }
         );
+Template.body.event({});
